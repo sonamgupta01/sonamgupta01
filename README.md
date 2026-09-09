@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
 # 👋🏼 I'm SONAM GUPTA
 ### 🤖 AI/ML • 💻 Software Development • 🌐 Web
@@ -90,23 +89,21 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sonamgupta01&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=sonamgupta01&theme=dark&hide_border=true" alt="GitHub Streak">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonamgupta01&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+<img src="https://github-readme-stats-fast.vercel.app/api?username=sonamgupta01&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+
+<br><br>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sonamgupta01&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=sonamgupta01&theme=dark&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+
 
 ## 🐍 GitHub Contribution Snake
 
