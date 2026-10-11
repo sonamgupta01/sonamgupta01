@@ -1,6 +1,6 @@
 
 # 👋🏼 I'm SONAM GUPTA
-### 🤖 AI/ML • 💻 Software Development • 🌐 Web
+### 🤖 AI/ML • 💻 Software Development • 🌐 Data Analytics
 
 👩🏻‍💻 Software Development Engineer | AI/ML Enthusiast  
 🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence) — Amrita Vishwa Vidyapeetham  
